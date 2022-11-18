@@ -1,3 +1,5 @@
+# Below is the readme of the repo that used to be at HelloOO7/gf-pawncc, for your reading pleasure. All credits go to Hello007. Enjoy
+
 # gf-pawncc-ctr
 The Pawn Language compiler with tweaks to support Game Freak's AMX fork in the Gen 6/7 Pokémon games.
 
